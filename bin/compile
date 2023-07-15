@@ -6,7 +6,7 @@ BUILD_DIR=$1
 CACHE_DIR=$2
 
 # Config
-PACKAGE="whois_5.5.17_amd64.deb"
+PACKAGE="whois_5.5.10_amd64.deb"
 URL="http://http.us.debian.org/debian/pool/main/w/whois/${PACKAGE}"
 
 # Download
